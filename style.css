@@ -1,0 +1,87 @@
+body{
+    background-color: #E5E5E5;
+}
+.top-nav-style{
+    background-color: #562EFF;
+}
+/* .navbar img{
+    width: 100%;
+} */
+.navbar li a{
+    color: white;
+    font-size: 20px;
+}
+
+.image-text{
+    color: white;
+    font-size: 20px;
+}
+.image-text:hover{
+    color: white;
+}
+
+.main-body{
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.top-player p{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: lightslategray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card-footer img{
+    width: 15px;
+}
+.top-player h2{
+    padding-top: 50px;
+}
+
+h2{
+    /* text-align: center; */
+    /* margin-bottom: 20px; */
+    border-bottom: 3px dotted gray;
+    width: 220px;
+    margin:0 auto;
+    color: gray;
+}
+.top-blog h3{
+    font-family: Arial, Helvetica, sans-serif
+}
+.top-blog p{
+    color: gray;
+}
+span{
+    color: blue;
+    font-weight: 500;
+}
+
+.blog-box-area:hover {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    /* padding-bottom: 50px; */
+}
+
+.card-body p{
+    color: red;
+    font-weight: 500;
+}
+.card:hover{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
